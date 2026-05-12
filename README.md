@@ -1,3 +1,5 @@
+![App Screenshot](screenshot.png)
+
 # subscription_management
 
 A new Flutter project.
