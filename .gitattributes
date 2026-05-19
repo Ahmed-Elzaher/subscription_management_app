@@ -1,6 +1,6 @@
-windows/* linguist-generated=true
-linux/* linguist-generated=true
-android/* linguist-generated=true
-ios/* linguist-generated=true
-macos/* linguist-generated=true
-web/* linguist-generated=true
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.cmake linguist-detectable=false
+*.swift linguist-detectable=false
+*.html linguist-detectable=false
