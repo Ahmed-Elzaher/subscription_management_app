@@ -40,6 +40,6 @@ Run the app:
 Bash
 flutter run
 👨‍💻 Developer
-Ahmed Elzaher - Mobile Application Developer (Flutter).
+Ahmed Elzaher - Mobile Application Developer (Flutter). 
 
 ![App Screenshot](screenshot.png)
